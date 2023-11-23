@@ -16,10 +16,9 @@
 There are multiple ways of hosting
 
 
-## 1. Cloudflare Pages
 
 
-## 2. Github Pages
+## 1. Github Pages
 
 
 - Add Quartz in `<repo>/.github/workflows/deploy.yml`
@@ -74,4 +73,6 @@ jobs:
 ```
 
 
+
+## 2. Cloudflare Pages
 ## 3. Vercel
