@@ -8,6 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/aymanapatel/mindmap",
+      Hashnode: "https://aymanace2049.hashnode.dev/",
+      LinkedIn: "https://linkedin.com/in/aymanapatel",
     },
   }),
 }
